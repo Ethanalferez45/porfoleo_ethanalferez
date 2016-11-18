@@ -3,6 +3,7 @@ PAGE COLOR SCHEME:
 Color 1: reddish - #AA3939
 Color 2: orangeish - #FFD1AA
 Color 3: blueish - #003333
+Color 4:LightGray- #d3d3d3
 */
 
 
@@ -15,7 +16,7 @@ body{
   font-size: 1em;
   font-weight: normal;
   text-align: left;
-  background-color:##FFD1AA;	
+  background-color:	#d3d3d3;
 }
 
 h1{
