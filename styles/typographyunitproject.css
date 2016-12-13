@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
-font-family: 'Slabo 27px', serif;
+
+
 body{
   margin: 0 auto;
   max-width: 80%;
@@ -12,6 +13,7 @@ body{
   background-color:	#d3d3d3;
 }
 
+
 h1{
   font-size: 1.8em;
   font-weight: bold;
@@ -22,6 +24,7 @@ h2 {
   margin-top: 1em;
   padding-top: 1em;
 }
+
 
 a {
   color: #rgb(0, 191, 255);
