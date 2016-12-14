@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700|Oswald|Roboto');
+body{
+  margin: 0 auto;
+  max-width: 80%;
+  font-family: 'times-new roman', "Roboto", sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  font-size: 1em;
+  font-weight: normal;
+  text-align: left;
+  background-color:	#eee;
+}
+
+
+h1{
+  font-size: 1.8em;
+  font-weight: bold;
+  text-align: center;
+  color: #135FA3;
+}
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+li{
+  color: #444;
+}
